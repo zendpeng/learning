@@ -24,3 +24,5 @@ Included plugins:
 Updater (Installer only):
 
 * WinGup v4.1
+
+updateed on 2017-09-19
