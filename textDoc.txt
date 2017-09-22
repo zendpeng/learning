@@ -1,0 +1,2 @@
+22 sep.2017
+text doc for learning git
